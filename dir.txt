@@ -1,0 +1,17 @@
+Assets/
+├── Materials/
+├── Prefabs/
+├── Scenes/
+│   └── Main.unity
+├── Scripts/
+│   └── ECS/
+│       ├── AgentMaterialController.cs
+│       ├── BoidsSystem.cs
+│       ├── BootstrapAuthoring.cs
+│       ├── GridBuildSystem.cs
+│       ├── RenderSyncSystem.cs
+│       ├── SpawnerSystem.cs
+│       ├── UI/
+│       │   └── GameUI.cs
+│       └── ...
+└── ...
